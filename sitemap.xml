@@ -8,13 +8,13 @@
     <loc>http://cygnusbio.github.io/404.html</loc>
   </url>
   <url>
-    <loc>http://cygnusbio.github.io/about/</loc>
-  </url>
-  <url>
     <loc>http://cygnusbio.github.io/archives/</loc>
   </url>
   <url>
-    <loc>http://cygnusbio.github.io/blog/archives/</loc>
+    <loc>http://cygnusbio.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/</loc>
   </url>
   <url>
     <loc>http://cygnusbio.github.io/blog/</loc>
@@ -23,6 +23,9 @@
     <loc>http://cygnusbio.github.io/index/</loc>
   </url>
   <url>
-    <loc>http://cygnusbio.github.io/</loc>
+    <loc>http://cygnusbio.github.io/blog/archives/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/jia-ru-wo-men/</loc>
   </url>
 </urlset>
