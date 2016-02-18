@@ -2,12 +2,14 @@
 #      Main Configs       #
 # ----------------------- #
 
+auto: true
 url: http://cygnusbio.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Cygnusbio
+subtitle: 
+author: cygnusbio
 simple_search: https://www.google.com/search
 description:
+gems: [jekyll-paginate]
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

@@ -1,9 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://cygnusbio.github.io/blog/2016/02/17/gong-si-jie-shao/</loc>
+    <lastmod>2016-02-17T09:36:44+08:00</lastmod>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/404.html</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/about/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/archives/</loc>
+  </url>
+  <url>
     <loc>http://cygnusbio.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://cygnusbio.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/contact/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/index/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/blog/</loc>
+  </url>
+  <url>
+    <loc>http://cygnusbio.github.io/jia-ru-wo-men/</loc>
   </url>
 </urlset>
