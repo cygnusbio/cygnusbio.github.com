@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Cygnusbio]]></title>
-  <link href="http://cygnusbio.github.io/atom.xml" rel="self"/>
-  <link href="http://cygnusbio.github.io/"/>
-  <updated>2016-02-18T17:12:14+08:00</updated>
-  <id>http://cygnusbio.github.io/</id>
+  <title><![CDATA[赛纳生物科技（北京）有限公司 ]]></title>
+  <link href="https://cygnusbio.github.io/atom.xml" rel="self"/>
+  <link href="https://cygnusbio.github.io/"/>
+  <updated>2016-02-18T17:16:26+08:00</updated>
+  <id>https://cygnusbio.github.io/</id>
   <author>
     <name><![CDATA[cygnusbio]]></name>
     
@@ -14,9 +14,9 @@
   
   <entry>
     <title type="html"><![CDATA[公司介绍]]></title>
-    <link href="http://cygnusbio.github.io/blog/2016/02/17/gong-si-jie-shao/"/>
+    <link href="https://cygnusbio.github.io/blog/2016/02/17/gong-si-jie-shao/"/>
     <updated>2016-02-17T09:36:44+08:00</updated>
-    <id>http://cygnusbio.github.io/blog/2016/02/17/gong-si-jie-shao</id>
+    <id>https://cygnusbio.github.io/blog/2016/02/17/gong-si-jie-shao</id>
     <content type="html"><![CDATA[<h3>赛纳生科科技（北京）有限公司</h3>
 
 <p>企业简介</p>
